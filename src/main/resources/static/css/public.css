@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'password';
+    src: url("../font/font-password.ttf");
+}
+
+.password{
+	font-family: 'password';
+}
